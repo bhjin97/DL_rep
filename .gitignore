@@ -2,6 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
+mnist_train
 
 # C extensions
 *.so
