@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 mnist_train
+datasets
+*.png
+*.jpg
+*.pt
 
 # C extensions
 *.so
