@@ -4,9 +4,13 @@ __pycache__/
 *$py.class
 mnist_train
 datasets
+datasets_num
 *.png
 *.jpg
 *.pt
+*.jpeg
+*.csv
+*.yaml
 
 # C extensions
 *.so
