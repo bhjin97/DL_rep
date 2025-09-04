@@ -11,6 +11,7 @@ datasets_num
 *.jpeg
 *.csv
 *.yaml
+Numbers
 
 # C extensions
 *.so
