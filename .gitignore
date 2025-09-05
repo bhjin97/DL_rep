@@ -12,6 +12,8 @@ datasets_num
 *.csv
 *.yaml
 Numbers
+results
+fine_tuned_distilbert_imdb
 
 # C extensions
 *.so
